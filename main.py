@@ -31,7 +31,7 @@ for i in range(3):
     urls.append(url)
 
 process_url_clicked = st.sidebar.button("Process URLs")
-file_path = "faiss_store_openai.pkl"
+file_path = "faiss_store_ai.pkl"
 
 main_placeholder = st.empty()
 
