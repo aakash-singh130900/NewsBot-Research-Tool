@@ -24,5 +24,5 @@ NewsBot is user-friendly news research tool designed for effortless information 
 📂 NewsBot-Research-Tool
 ├── 📜 main.py → The main Streamlit application script.
 ├── 📜 requirements.txt → List of required Python packages for the project.
-├── 📜 faiss_store_openai.pkl → Pickle file to store the FAISS index.
+├── 📜 faiss_store_ai.pkl → Pickle file to store the FAISS index.
 ├── 📜 .env → Configuration file for storing your Model's API key (not included in the repository).
